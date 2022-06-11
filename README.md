@@ -7,7 +7,7 @@ My popular park encounters left me with a few questions to evaluate:
 * What parks are most and least popular?
 * What are the features in these parks that could contribute to these rankings?
 * Were there actually more guests to Tennessee's parks in recent years?
-* Were the parks slowly becoming more popular in relation to Tennessee's population growth or could the attendance be attributed to COVID-19 regulations  
+* Were the parks slowly becoming more popular in relation to Tennessee's population growth or could the attendance be attributed to COVID-19 regulations? 
 
 [This presentation summarizes my findings.](https://public.tableau.com/app/profile/cherice1744/viz/TN-Parks-and-Population/Story)
 
